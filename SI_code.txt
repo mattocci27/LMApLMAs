@@ -1,5 +1,5 @@
 # Stan codes for LMAp and LMAs model
-# Mastoshi Katabuchi
+# Masatoshi Katabuchi
 # mattocci27@gmail.com
 # January 31, 2017
 #
